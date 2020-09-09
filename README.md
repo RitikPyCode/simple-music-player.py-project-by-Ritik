@@ -1,2 +1,3 @@
 # simple-music-player.py-project-by-Ritik
-This is simple music player project using python. Tachnology-: Python , plateform-: jupyterNotebook, Author-: Ritik kumar tiwari
+This is simple music player project using Python Tachnology-:
+GUI Application using Tkinter Module **Author-: Ritik kumar tiwari
